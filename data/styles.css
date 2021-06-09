@@ -110,7 +110,7 @@
   color:#000000;
 }
 ._二级标题 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -128,6 +128,17 @@
 ._麦芒引擎v1_4 {
   font-size:12px;
   color:#FFFFFF;
+}
+.image1 {
+}
+._形状2 {
+  font-size:13px;
+  color:#000000;
+}
+._文本框 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
 }
 ._流程形状 {
 }
@@ -230,16 +241,7 @@
 ._连接线 {
   color:#333333;
 }
-._形状2 {
-  font-size:13px;
-  color:#000000;
-}
 ._文本段落1 {
-  font-size:13px;
-  color:#000000;
-  text-align:left;
-}
-._文本框 {
   font-size:13px;
   color:#000000;
   text-align:left;
@@ -364,7 +366,7 @@
 }
 .shape {
 }
-.image1 {
+.image2 {
   color:#000000;
 }
 .iconfont {
@@ -388,7 +390,7 @@
   text-align:left;
 }
 .heading_11 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -406,7 +408,7 @@
   text-align:left;
 }
 ._形状4 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -464,8 +466,6 @@
 }
 .form_disabled1 {
 }
-.image2 {
-}
 .snapshot {
 }
 .form_hint {
@@ -493,7 +493,7 @@
   text-align:left;
 }
 ._形状5 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   color:#FF0066;
