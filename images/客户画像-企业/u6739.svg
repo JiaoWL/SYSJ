@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="120px" height="40px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1256 -80 )">
-    <path d="M 0 35  L 0 5  C 0 2.2  1.88571428571432 0  4.28571428571429 0  L 49.120879120879 0  L 115.714285714286 0  C 118.114285714286 0  120 2.2  120 5  L 120 35  C 120 37.8  118.114285714286 40  115.714285714286 40  L 4.28571428571429 40  C 1.88571428571432 40  0 37.8  0 35  Z " fill-rule="nonzero" fill="#409eff" stroke="none" transform="matrix(1 0 0 1 1256 80 )" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="183px" height="90px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="1198px" y="458px" width="183px" height="90px" filterUnits="userSpaceOnUse" id="filter172">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.0470588235294118 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget173">
+      <path d="M 1203 473  A 10 10 0 0 1 1213 463 L 1376 463  L 1376 543  L 1213 543  A 10 10 0 0 1 1203 533 L 1203 473  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1198 -458 )">
+    <use xlink:href="#widget173" filter="url(#filter172)" />
+    <use xlink:href="#widget173" />
   </g>
 </svg>

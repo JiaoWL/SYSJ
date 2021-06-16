@@ -1,15 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="60px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="121px" height="75px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="521" y1="197" x2="521" y2="257" id="LinearGradient1118">
-      <stop id="Stop1119" stop-color="#ffffff" offset="0" />
-      <stop id="Stop1120" stop-color="#f2f2f2" offset="0" />
-      <stop id="Stop1121" stop-color="#e4e4e4" offset="1" />
-      <stop id="Stop1122" stop-color="#ffffff" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="60" y2="74" id="LinearGradient35">
+      <stop id="Stop36" stop-color="#ffffff" offset="0" />
+      <stop id="Stop37" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop38" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop39" stop-color="#ffffff" offset="1" />
     </linearGradient>
+    <mask fill="white" id="clip40">
+      <path d="M 120 0  L 0 0  L 0 74  L 120 74  L 120 0  Z " fill-rule="evenodd" />
+    </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -471 -197 )">
-    <path d="M 521 197  C 549 197  571 210.2  571 227  C 571 243.8  549 257  521 257  C 493 257  471 243.8  471 227  C 471 210.2  493 197  521 197  Z " fill-rule="nonzero" fill="url(#LinearGradient1118)" stroke="none" />
-    <path d="M 521 197.5  C 548.72 197.5  570.5 210.48  570.5 227  C 570.5 243.52  548.72 256.5  521 256.5  C 493.28 256.5  471.5 243.52  471.5 227  C 471.5 210.48  493.28 197.5  521 197.5  Z " stroke-width="1" stroke="#f2f2f2" fill="none" />
+  <g transform="matrix(1 0 0 1 -272 -986 )">
+    <path d="M 120 0  L 0 0  L 0 74  L 120 74  L 120 0  Z " fill-rule="nonzero" fill="url(#LinearGradient35)" stroke="none" transform="matrix(1 0 0 1 272 986 )" />
+    <path d="M 120 0  L 0 0  L 0 74  L 120 74  L 120 0  Z " stroke-width="2" stroke="#f2f2f2" fill="none" transform="matrix(1 0 0 1 272 986 )" mask="url(#clip40)" />
+    <path d="M 12.5 0  L 12.5 74  M 107.5 0  L 107.5 74  " stroke-width="1" stroke="#f2f2f2" fill="none" transform="matrix(1 0 0 1 272 986 )" mask="url(#clip40)" />
   </g>
 </svg>
