@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="60px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path d="M 0 0  L 300 0  L 300 300  L 0 300  Z " fill-rule="evenodd" fill="black" id="path600" />
-    <clipPath id="clip601">
-      <use xlink:href="#path600" />
+    <path d="M 0 0  L 300 0  L 300 300  L 0 300  Z " fill-rule="evenodd" fill="black" id="path719" />
+    <clipPath id="clip720">
+      <use xlink:href="#path719" />
     </clipPath>
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter602">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter721">
       <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
     </filter>
   </defs>
-  <g transform="matrix(1 0 0 1 -225 -834 )">
-    <g transform="matrix(0.2 0 0 0.2 225 834 )" clip-path="url(#clip601)" filter="url(#filter602)">
+  <g transform="matrix(1 0 0 1 -225 -654 )">
+    <g transform="matrix(0.2 0 0 0.2 225 654 )" clip-path="url(#clip720)" filter="url(#filter721)">
       <style type="text/css">
 	.st0{fill:#FBE3C0;}
 	.st1{fill:#57B894;}
@@ -65,35 +65,23 @@
 	.st50{fill:#FFF3B1;}
 	.st51{fill:#7B88FF;}
 </style>
-      <rect x="-7.1" y="-7.4" class="st10" width="314.7" height="314.7" />
-      <ellipse transform="matrix(0.5797 -0.8149 0.8149 0.5797 -89.1651 148.7546)" class="st11" cx="99.6" cy="160.8" rx="43.4" ry="28.9" />
-      <ellipse transform="matrix(0.9588 -0.2842 0.2842 0.9588 -61.5092 36.9052)" class="st11" cx="96.4" cy="230.4" rx="46.7" ry="40.9" />
-      <ellipse transform="matrix(0.1905 -0.9817 0.9817 0.1905 14.8032 317.6682)" class="st11" cx="200" cy="149.9" rx="43.4" ry="28.9" />
-      <ellipse transform="matrix(0.8569 -0.5154 0.5154 0.8569 -66.0347 130.4727)" class="st11" cx="202" cy="184.2" rx="28.9" ry="43.4" />
-      <ellipse transform="matrix(0.7596 -0.6503 0.6503 0.7596 -95.5218 189.9958)" class="st11" cx="209.3" cy="224.2" rx="28.9" ry="43.4" />
-      <path class="st11" d="M190.4,299.9h-86.7c-16,0-29-34-29-50.1v-136c0-37.1,30-67.1,67.1-67.1h10.7c37.1,0,67.1,30,67.1,67.1v136  C219.4,265.9,206.4,299.9,190.4,299.9z" />
-      <path class="st12" d="M38.6,299.9c3.8-9.9,15.1-53.5,35.1-55.8c0.2,0,0.7-3.3,0.8-3.3c2.8-0.7,36-8.6,42-25.9c1.1-3.2,2.1-6.2,2.9-9  c0.6-2.1,1.2-4.1,1.7-6c1-3.8,1.6-7.7,1.9-11.7c0.3-4.6-0.2-9.2-1.3-13.6c-1.7-6.8,55.6-6.8,53.9,0c-1.1,4.4-1.6,9-1.3,13.6  c0.3,4,0.9,7.9,1.9,11.7c0.5,1.9,1,3.9,1.7,6c0.8,2.8,1.8,5.7,2.9,9c6,17.4,39.1,25.2,42,25.9c0.2,0,4.4,4.9,4.5,4.9  c20,2.2,27.6,44.3,31.3,54.1H38.6z" />
-      <ellipse transform="matrix(0.1188 -0.9929 0.9929 0.1188 -19.9712 281.397)" class="st15" cx="148.5" cy="151.9" rx="51.7" ry="48.3" />
-      <ellipse transform="matrix(0.1188 -0.9929 0.9929 0.1188 -14.7532 276.7661)" class="st12" cx="148.5" cy="146.7" rx="51.7" ry="48.3" />
-      <ellipse transform="matrix(0.9588 -0.2842 0.2842 0.9588 -23.228 39.426)" class="st11" cx="124.3" cy="99.8" rx="46.1" ry="28.9" />
+      <rect x="-7.1" y="-7.3" class="st8" width="314.8" height="314.8" />
+      <path class="st11" d="M189.6,271h-85.1c-15.7,0-33.7-12.8-33.7-28.5L75.9,109c0-36.4,29.5-65.8,65.8-65.8h10.5  c36.4,0,65.8,29.5,65.8,65.8l5.2,133.5C223.2,258.3,205.3,271,189.6,271z" />
+      <path class="st12" d="M31.7,299.9c3.9-10.4,16.2-55,37.1-57.4c0.2,0,0.3-3.1,0.5-3.2c3-0.8,37.8-9,44-27.2c1.2-3.4,2.2-6.5,3.1-9.4  c0.7-2.2,1.3-4.3,1.8-6.3c1-4,1.7-8.1,2-12.3c0.3-4.8-0.2-9.6-1.4-14.2c-1.8-7.1,58.3-7.1,56.6,0c-1.2,4.6-1.7,9.4-1.4,14.2  c0.3,4.2,1,8.3,2,12.3c0.5,2,1.1,4.1,1.8,6.3c0.9,2.9,1.9,6,3.1,9.4c6.3,18.2,41.1,26.4,44,27.2c0.2,0,0.3,3.2,0.5,3.2  c21,2.3,33.2,47,37.1,57.4H31.7z" />
+      <ellipse transform="matrix(0.1188 -0.9929 0.9929 0.1188 -15.4276 274.6563)" class="st15" cx="147" cy="146" rx="54.3" ry="50.7" />
+      <ellipse transform="matrix(0.1188 -0.9929 0.9929 0.1188 -9.9526 269.7972)" class="st12" cx="147" cy="140.5" rx="54.3" ry="50.7" />
+      <ellipse transform="matrix(0.1188 -0.9929 0.9929 0.1188 58.1047 238.0327)" class="st11" cx="163.2" cy="86.3" rx="32.5" ry="42.6" />
+      <path class="st17" d="M235.6,242.6c-0.2,0-10.6-3.1-10.8-3.2c-2.1-0.6-21.1-5.1-33.7-14.5L148,235.7L103,225  c-12.6,9.4-31.6,13.9-33.7,14.5c-0.2,0-10.6,3.2-10.8,3.2c-21,2.3-22.9,47-26.8,57.4h230.7C258.4,289.6,256.5,245,235.6,242.6z" />
       <g>
 	<g>
-		<path class="st4" d="M153.8,299.9h104.7c-3.8-9.9-4.9-53.6-24.9-55.8c-0.2,0-10.8-3.2-11-3.2c-1.8-0.5-15.5-3.7-27-10.4    L153.8,299.9z" />
-		<path class="st4" d="M101.5,230.4c-11.5,6.7-25.2,10-27,10.4c-0.2,0-10.8,3.2-11,3.2c-20,2.2-21.1,46-24.9,55.8h104.7L101.5,230.4    z" />
+		<polygon class="st17" points="110.6,216.7 148,235.7 184,216.7 148,274.4   " />
+		<polygon class="st22" points="148,235.7 184,216.7 194.5,226 171.2,245.7   " />
+		<polygon class="st22" points="148,235.7 109.9,216.7 101.4,225 124.7,245.7   " />
 	</g>
+	<circle class="st23" cx="148.4" cy="244.2" r="3.2" />
+	<circle class="st23" cx="148.4" cy="278.1" r="3.2" />
 </g>
-      <g>
-	<defs>
-		<rect id="SVGID_5_" x="330.4" y="608.2" width="562.6" height="414.6" />
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_5_" style="overflow:visible;" />
-	</clipPath>
-	<g style="clip-path:url(#SVGID_2_);">
-		
-			<rect x="482.4" y="341.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -286.959 712.7995)" class="st35" width="469" height="723.1" />
-	</g>
-</g>
+      <rect x="153.9" y="237" class="st22" width="1.9" height="62.9" />
     </g>
   </g>
 </svg>
