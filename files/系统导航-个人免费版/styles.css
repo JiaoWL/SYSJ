@@ -1261,7 +1261,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1277,7 +1277,7 @@
   width:151px;
   height:40px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1369,7 +1369,7 @@
   width:506px;
   height:50px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -4975,7 +4975,7 @@
   width:80px;
   height:30px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5251,32 +5251,56 @@
 #u1298_seg0 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:-5px;
-  width:34px;
-  height:10px;
+  left:-5px;
+  top:-29px;
+  width:10px;
+  height:29px;
 }
 #u1298_seg1 {
   border-width:0px;
   position:absolute;
-  left:24px;
-  top:0px;
-  width:10px;
-  height:5px;
+  left:-51px;
+  top:-29px;
+  width:56px;
+  height:10px;
 }
 #u1298_seg2 {
   border-width:0px;
   position:absolute;
-  left:20px;
-  top:-10px;
+  left:-51px;
+  top:-29px;
+  width:10px;
+  height:122px;
+}
+#u1298_seg3 {
+  border-width:0px;
+  position:absolute;
+  left:-61px;
+  top:83px;
+  width:20px;
+  height:10px;
+}
+#u1298_seg4 {
+  border-width:0px;
+  position:absolute;
+  left:-61px;
+  top:88px;
+  width:10px;
+  height:5px;
+}
+#u1298_seg5 {
+  border-width:0px;
+  position:absolute;
+  left:-65px;
+  top:78px;
   width:18px;
   height:18px;
 }
 #u1298_text {
   border-width:0px;
   position:absolute;
-  left:-36px;
-  top:-8px;
+  left:-96px;
+  top:-6px;
   width:100px;
   word-wrap:break-word;
   text-transform:none;
@@ -5359,8 +5383,8 @@
 #u1302 {
   border-width:0px;
   position:absolute;
-  left:1634px;
-  top:27px;
+  left:1549px;
+  top:115px;
   width:252px;
   height:60px;
   display:flex;
@@ -5392,8 +5416,8 @@
 #u1303 {
   border-width:0px;
   position:absolute;
-  left:1634px;
-  top:27px;
+  left:1549px;
+  top:115px;
   width:1px;
   height:14px;
   display:flex;
@@ -5414,40 +5438,64 @@
 #u1304 {
   border-width:0px;
   position:absolute;
-  left:151px;
-  top:390px;
+  left:179px;
+  top:194px;
   width:0px;
   height:0px;
 }
 #u1304_seg0 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-5px;
   top:-5px;
-  width:34px;
-  height:10px;
+  width:10px;
+  height:5px;
 }
 #u1304_seg1 {
   border-width:0px;
   position:absolute;
-  left:24px;
-  top:0px;
-  width:10px;
-  height:5px;
+  left:-5px;
+  top:-5px;
+  width:41px;
+  height:10px;
 }
 #u1304_seg2 {
   border-width:0px;
   position:absolute;
-  left:20px;
-  top:-10px;
+  left:26px;
+  top:-5px;
+  width:10px;
+  height:205px;
+}
+#u1304_seg3 {
+  border-width:0px;
+  position:absolute;
+  left:26px;
+  top:190px;
+  width:21px;
+  height:10px;
+}
+#u1304_seg4 {
+  border-width:0px;
+  position:absolute;
+  left:37px;
+  top:195px;
+  width:10px;
+  height:5px;
+}
+#u1304_seg5 {
+  border-width:0px;
+  position:absolute;
+  left:33px;
+  top:185px;
   width:18px;
   height:18px;
 }
 #u1304_text {
   border-width:0px;
   position:absolute;
-  left:-36px;
-  top:-8px;
+  left:-19px;
+  top:80px;
   width:100px;
   word-wrap:break-word;
   text-transform:none;
@@ -5482,8 +5530,8 @@
 #u1306 {
   border-width:0px;
   position:absolute;
-  left:143px;
-  top:382px;
+  left:171px;
+  top:186px;
   width:18px;
   height:18px;
   display:flex;
@@ -5514,7 +5562,7 @@
   left:0px;
   top:0px;
   width:122px;
-  height:23px;
+  height:42px;
   background:inherit;
   background-color:rgba(255, 223, 37, 1);
   border:none;
@@ -5530,10 +5578,10 @@
 #u1308 {
   border-width:0px;
   position:absolute;
-  left:179px;
-  top:383px;
+  left:220px;
+  top:382px;
   width:122px;
-  height:23px;
+  height:42px;
   display:flex;
   font-family:'PingFang SC ', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -5563,8 +5611,8 @@
 #u1309 {
   border-width:0px;
   position:absolute;
-  left:179px;
-  top:383px;
+  left:220px;
+  top:382px;
   width:1px;
   height:14px;
   display:flex;
