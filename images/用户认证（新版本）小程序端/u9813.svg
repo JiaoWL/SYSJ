@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="139px" height="108px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="69" y1="0" x2="69" y2="107" id="LinearGradient625">
+      <stop id="Stop626" stop-color="#ffffff" offset="0" />
+      <stop id="Stop627" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop628" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop629" stop-color="#ffffff" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip630">
+      <path d="M 138 0  L 0 0  L 0 107  L 138 107  L 138 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -641 -977 )">
+    <path d="M 138 0  L 0 0  L 0 107  L 138 107  L 138 0  Z " fill-rule="nonzero" fill="url(#LinearGradient625)" stroke="none" transform="matrix(1 0 0 1 641 977 )" />
+    <path d="M 138 0  L 0 0  L 0 107  L 138 107  L 138 0  Z " stroke-width="2" stroke="#f2f2f2" fill="none" transform="matrix(1 0 0 1 641 977 )" mask="url(#clip630)" />
+    <path d="M 14.5 0  L 14.5 107  M 123.5 0  L 123.5 107  " stroke-width="1" stroke="#f2f2f2" fill="none" transform="matrix(1 0 0 1 641 977 )" mask="url(#clip630)" />
+  </g>
+</svg>
