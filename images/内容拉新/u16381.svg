@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path d="M 0 0  L 300 0  L 300 300  L 0 300  Z " fill-rule="evenodd" fill="black" id="path550" />
-    <clipPath id="clip551">
-      <use xlink:href="#path550" />
+    <path d="M 0 0  L 300 0  L 300 300  L 0 300  Z " fill-rule="evenodd" fill="black" id="path1012" />
+    <clipPath id="clip1013">
+      <use xlink:href="#path1012" />
     </clipPath>
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter552">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter1014">
       <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
     </filter>
   </defs>
   <g transform="matrix(1 0 0 1 -74 -8 )">
-    <g transform="matrix(0.133333333333333 0 0 0.133333333333333 74 8 )" clip-path="url(#clip551)" filter="url(#filter552)">
+    <g transform="matrix(0.133333333333333 0 0 0.133333333333333 74 8 )" clip-path="url(#clip1013)" filter="url(#filter1014)">
       <style type="text/css">
 	.st0{fill:#FBE3C0;}
 	.st1{fill:#57B894;}
