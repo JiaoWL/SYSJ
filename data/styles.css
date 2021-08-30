@@ -11,6 +11,9 @@
   text-transform:none;
 }
 ._默认样式 {
+  font-family:'新宋体 常规', '新宋体', sans-serif;
+  font-weight:400;
+  font-style:normal;
 }
 .form_disabled {
 }
@@ -42,6 +45,9 @@
 ._表格 {
 }
 .box_1 {
+}
+.checkbox {
+  text-align:left;
 }
 ._图片_ {
 }
@@ -83,7 +89,7 @@
   text-align:left;
 }
 .font_awesome_5_free_solid {
-  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free', sans-serif;
+  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free Regular', 'Font Awesome 5 Free', sans-serif;
   font-weight:900;
   font-style:normal;
 }
@@ -136,7 +142,7 @@
   color:#000000;
 }
 ._二级标题 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -184,7 +190,7 @@
 .shape {
 }
 .new_style {
-  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free', sans-serif;
+  font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free Regular', 'Font Awesome 5 Free', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:28px;
@@ -429,7 +435,7 @@
   text-align:left;
 }
 .heading_11 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -447,7 +453,7 @@
   text-align:left;
 }
 ._形状4 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -491,13 +497,13 @@
 ._表单禁用 {
 }
 .font_awesome_5_pro_solid {
-  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro', sans-serif;
   font-weight:900;
   font-style:normal;
   font-size:28px;
   color:#666666;
 }
-.checkbox {
+.checkbox1 {
   text-align:left;
 }
 .form_disabled1 {
@@ -526,7 +532,7 @@
   text-align:left;
 }
 ._形状5 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   color:#FF0066;
