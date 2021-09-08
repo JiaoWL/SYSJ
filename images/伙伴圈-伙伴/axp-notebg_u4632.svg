@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="538px" height="545px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="521px" y="40px" width="538px" height="545px" filterUnits="userSpaceOnUse" id="filter412">
+      <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget413">
+      <path d="M 0 535  L 0 0  L 120 0  L 528 0  L 528 535  L 0 535  Z " fill-rule="nonzero" fill="#ffdf25" stroke="none" transform="matrix(1 0 0 1 521 40 )" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -521 -40 )">
+    <use xlink:href="#widget413" filter="url(#filter412)" />
+    <use xlink:href="#widget413" />
+  </g>
+</svg>
